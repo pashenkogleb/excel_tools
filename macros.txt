@@ -1,0 +1,10 @@
+Sub format()
+'
+' format Macro
+' adds comma
+'
+' Keyboard Shortcut: Ctrl+q
+'
+    Selection.NumberFormat = "#,##0"
+
+End Sub
